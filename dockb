@@ -1,2 +1,2 @@
 #!/bin/bash
-docker image build -t louisross/spiking-model-control-backend:1.0 .
+docker image build -t louisross/spiking-model-persist-connector:1.0 .
